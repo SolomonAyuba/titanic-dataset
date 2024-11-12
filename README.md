@@ -93,8 +93,7 @@ Various visualizations supported the analysis:
 # Conclusion
 This project demonstrated how data engineering and machine learning techniques could be applied to the Titanic dataset to predict passenger survival. By performing data cleaning, feature engineering, and model selection, we were able to develop a reasonably accurate predictive model.
 
-**Team:** [Aduragbemi Akinshola Kinoshi](https://github.com/pkinoshi) |⁠ ⁠Solomon Ayuba | Okon Olugbenga Enang | King Richard | Theresa Chukwukere
-
-**Date:** 12/11/2024
+#### **Team:** [Aduragbemi Akinshola Kinoshi](https://github.com/pkinoshi) |⁠ ⁠[Solomon Ayuba](https://github.com/SolomonAyuba) | [Okon Olugbenga Enang](https://github.com/Nanoshogun) | King Richard | Theresa Chukwukere
+**Date:** 12.11.2024
 
 © [Miva Open University](https://miva.university/) 2024.
