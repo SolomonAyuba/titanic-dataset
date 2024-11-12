@@ -1,6 +1,19 @@
 ![DTS 2 data science Image 1080 x 1080](https://github.com/user-attachments/assets/68522a63-4f10-43a2-b05b-f743e4943e6b)
 
-[Google Collab Python Code](https://colab.research.google.com/drive/1mvypBO62sDGjPZKyTyKn5DKs6DGTtTxD#scrollTo=oJAJMiEukq2a) | [PDF Report](https://drive.google.com/file/d/1QPoplIHIaasXOEPoBOfOEEawaFaa1_kP/view) |
+<div align="center"> 
+ 
+#### **Team:** [Aduragbemi Akinshola Kinoshi](https://github.com/pkinoshi) |⁠ ⁠[Solomon Ayuba](https://github.com/SolomonAyuba) | [Okon Olugbenga Enang](https://github.com/Nanoshogun) | King Richard | Theresa Chukwukere
+[Google Collab Python Code](https://colab.research.google.com/drive/1mvypBO62sDGjPZKyTyKn5DKs6DGTtTxD#scrollTo=oJAJMiEukq2a) | [PDF Report](https://drive.google.com/file/d/1QPoplIHIaasXOEPoBOfOEEawaFaa1_kP/view) 
+
+</div>
+
+<div align="center">
+
+#### **Team:** [Aduragbemi Akinshola Kinoshi](https://github.com/pkinoshi) | [Solomon Ayuba](https://github.com/SolomonAyuba) | [Okon Olugbenga Enang](https://github.com/Nanoshogun) | King Richard | Theresa Chukwukere
+
+[Google Collab Python Code](https://colab.research.google.com/drive/1mvypBO62sDGjPZKyTyKn5DKs6DGTtTxD#scrollTo=oJAJMiEukq2a) | [PDF Report](https://drive.google.com/file/d/1QPoplIHIaasXOEPoBOfOEEawaFaa1_kP/view)
+
+</div>
 
 ## Introduction
 The Titanic dataset provides information on passengers aboard the Titanic, including details such as age, gender, class, and whether they survived. The goal of this project is to preprocess the dataset using data engineering techniques and then build a predictive model to determine a passenger's survival based on various features. By analyzing factors related to survival, we can gain insights into the demographic and socio-economic profiles of passengers who were more likely to survive.
@@ -94,7 +107,4 @@ Various visualizations supported the analysis:
 # Conclusion
 This project demonstrated how data engineering and machine learning techniques could be applied to the Titanic dataset to predict passenger survival. By performing data cleaning, feature engineering, and model selection, we were able to develop a reasonably accurate predictive model.
 
-#### **Team:** [Aduragbemi Akinshola Kinoshi](https://github.com/pkinoshi) |⁠ ⁠[Solomon Ayuba](https://github.com/SolomonAyuba) | [Okon Olugbenga Enang](https://github.com/Nanoshogun) | King Richard | Theresa Chukwukere
-**Date:** 12.11.2024
-
-© [Miva Open University](https://miva.university/) 2024.
+© [Miva Open University](https://miva.university/) 2024.11.12
