@@ -7,14 +7,6 @@
 
 </div>
 
-<div align="center">
-
-#### **Team:** [Aduragbemi Akinshola Kinoshi](https://github.com/pkinoshi) | [Solomon Ayuba](https://github.com/SolomonAyuba) | [Okon Olugbenga Enang](https://github.com/Nanoshogun) | King Richard | Theresa Chukwukere
-
-[Google Collab Python Code](https://colab.research.google.com/drive/1mvypBO62sDGjPZKyTyKn5DKs6DGTtTxD#scrollTo=oJAJMiEukq2a) | [PDF Report](https://drive.google.com/file/d/1QPoplIHIaasXOEPoBOfOEEawaFaa1_kP/view)
-
-</div>
-
 ## Introduction
 The Titanic dataset provides information on passengers aboard the Titanic, including details such as age, gender, class, and whether they survived. The goal of this project is to preprocess the dataset using data engineering techniques and then build a predictive model to determine a passenger's survival based on various features. By analyzing factors related to survival, we can gain insights into the demographic and socio-economic profiles of passengers who were more likely to survive.
  
