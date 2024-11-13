@@ -2,7 +2,7 @@
 
 <div align="center"> 
  
-#### **Team:** [Aduragbemi Akinshola Kinoshi](https://github.com/pkinoshi) |⁠ ⁠[Solomon Ayuba](https://github.com/SolomonAyuba) | [Okon Olugbenga Enang](https://github.com/Nanoshogun) | King Richard | Theresa Chukwukere
+#### **Team:** [Aduragbemi Akinshola Kinoshi](https://github.com/pkinoshi) |⁠ ⁠[Solomon Ayuba](https://github.com/SolomonAyuba) | [Okon Olugbenga Enang](https://github.com/Nanoshogun) | King Richard
 [Google Collab Python Code](https://colab.research.google.com/drive/1mvypBO62sDGjPZKyTyKn5DKs6DGTtTxD#scrollTo=oJAJMiEukq2a) | [PDF Report](https://drive.google.com/file/d/1QPoplIHIaasXOEPoBOfOEEawaFaa1_kP/view) 
 
 </div>
